@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381646126303",
+    "firebase_url": "https://singasong-c50c2.firebaseio.com",
+    "project_id": "singasong-c50c2",
+    "storage_bucket": "singasong-c50c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381646126303:android:3496a32991a3e610",
+        "android_client_info": {
+          "package_name": "com.example.singasong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381646126303-i0sradfq4m2af5iqee058kcvmt3p04n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.singasong",
+            "certificate_hash": "c8781a176c4fd3920a7c933ea2f5e0f742647e87"
+          }
+        },
+        {
+          "client_id": "381646126303-92u5ra6930ii3od2iberckit5s4c0uva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNZWpbx_mpL3ilTptLHPTcfKt6DvHxfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381646126303-92u5ra6930ii3od2iberckit5s4c0uva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
